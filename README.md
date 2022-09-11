@@ -1,5 +1,5 @@
 
-### Hi everyone, I'm Daniel. (Olá pessoal, sou o Daniel.)
+### Hi everyone, I'm Daniel. 
 
 I am a student and technology enthusiast. I hope you like my projects, good studies.
 
