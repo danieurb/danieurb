@@ -27,9 +27,9 @@ I am a student and technology enthusiast. I hope you like my projects, good stud
 
 </div>
 
+![snake gif](https://github.com/danieurb/danieurb/blob/output/github-contribution-grid-snake.svg)
+
 ## Meus estudos 📚:
 [Desenvolvimento WEB Completo 2022 - Professor Jamilton Damasceno](https://www.udemy.com/course/web-completo/)<br/>
 [MySql - Curso em Vídeo](https://www.udemy.com/course/web-completo/)
-
-![snake gif](https://github.com/danieurb/danieurb/blob/output/github-contribution-grid-snake.svg)
 
